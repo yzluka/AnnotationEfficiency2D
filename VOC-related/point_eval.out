@@ -1,0 +1,24 @@
+point_1_exp/voc2012/pspnet101/model/train_epoch_23.pth
+[2023-04-29 15:55:14,533 INFO test.py line 248 807936] Eval result: mIoU/mAcc/allAcc 0.1574/0.1815/0.7714.
+point_1_exp/voc2012/pspnet101/model/train_epoch_35.pth
+[2023-04-29 16:01:01,151 INFO test.py line 248 815585] Eval result: mIoU/mAcc/allAcc 0.1695/0.2032/0.7729.
+point_1_exp/voc2012/pspnet101/model/train_epoch_57.pth
+[2023-04-29 16:06:49,516 INFO test.py line 248 823234] Eval result: mIoU/mAcc/allAcc 0.1626/0.1852/0.7728.
+point_2_exp/voc2012/pspnet101/model/train_epoch_34.pth
+[2023-04-29 19:23:17,503 INFO test.py line 248 1187645] Eval result: mIoU/mAcc/allAcc 0.1675/0.1882/0.7719.
+point_2_exp/voc2012/pspnet101/model/train_epoch_38.pth
+[2023-04-29 19:29:05,389 INFO test.py line 248 1195294] Eval result: mIoU/mAcc/allAcc 0.1709/0.1907/0.7740.
+point_2_exp/voc2012/pspnet101/model/train_epoch_39.pth
+[2023-04-29 19:34:54,127 INFO test.py line 248 1202943] Eval result: mIoU/mAcc/allAcc 0.1851/0.2043/0.7822.
+point_4_exp/voc2012/pspnet101/model/train_epoch_19.pth
+[2023-04-29 23:41:19,713 INFO test.py line 248 1447578] Eval result: mIoU/mAcc/allAcc 0.1936/0.2090/0.7818.
+point_4_exp/voc2012/pspnet101/model/train_epoch_43.pth
+[2023-04-29 23:47:07,361 INFO test.py line 248 1455227] Eval result: mIoU/mAcc/allAcc 0.2004/0.2147/0.7871.
+point_4_exp/voc2012/pspnet101/model/train_epoch_53.pth
+[2023-04-29 23:52:54,926 INFO test.py line 248 1462876] Eval result: mIoU/mAcc/allAcc 0.1922/0.2068/0.7812.
+point_7_exp/voc2012/pspnet101/model/train_epoch_12.pth
+[2023-04-30 23:47:14,240 INFO test.py line 248 1633191] Eval result: mIoU/mAcc/allAcc 0.2060/0.2213/0.7787.
+point_7_exp/voc2012/pspnet101/model/train_epoch_14.pth
+[2023-04-30 23:53:01,003 INFO test.py line 248 1640840] Eval result: mIoU/mAcc/allAcc 0.2174/0.2321/0.7841.
+point_7_exp/voc2012/pspnet101/model/train_epoch_19.pth
+[2023-04-30 23:58:47,322 INFO test.py line 248 1648489] Eval result: mIoU/mAcc/allAcc 0.2211/0.2354/0.7879.

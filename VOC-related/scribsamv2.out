@@ -1,0 +1,30 @@
+scribsamv2_1_exp/voc2012/pspnet101/model/train_epoch_107.pth
+[2024-12-15 09:03:31,335 INFO test.py line 248 449370] Eval result: mIoU/mAcc/allAcc 0.5260/0.5974/0.8956.
+scribsamv2_1_exp/voc2012/pspnet101/model/train_epoch_47.pth
+[2024-12-15 09:06:44,704 INFO test.py line 248 452725] Eval result: mIoU/mAcc/allAcc 0.5289/0.6087/0.8948.
+scribsamv2_1_exp/voc2012/pspnet101/model/train_epoch_69.pth
+[2024-12-15 09:10:07,434 INFO test.py line 248 456080] Eval result: mIoU/mAcc/allAcc 0.5278/0.6058/0.8952.
+scribsamv2_2_exp/voc2012/pspnet101/model/train_epoch_51.pth
+[2024-12-15 10:28:44,106 INFO test.py line 248 991214] Eval result: mIoU/mAcc/allAcc 0.5702/0.6479/0.9026.
+scribsamv2_2_exp/voc2012/pspnet101/model/train_epoch_53.pth
+[2024-12-15 10:32:06,361 INFO test.py line 248 994569] Eval result: mIoU/mAcc/allAcc 0.5824/0.6686/0.9083.
+scribsamv2_2_exp/voc2012/pspnet101/model/train_epoch_91.pth
+[2024-12-15 10:35:29,034 INFO test.py line 248 997924] Eval result: mIoU/mAcc/allAcc 0.5936/0.6721/0.9113.
+scribsamv2_4_exp/voc2012/pspnet101/model/train_epoch_56.pth
+[2024-12-15 12:05:55,771 INFO test.py line 248 1354409] Eval result: mIoU/mAcc/allAcc 0.6817/0.7577/0.9275.
+scribsamv2_4_exp/voc2012/pspnet101/model/train_epoch_65.pth
+[2024-12-15 12:09:19,623 INFO test.py line 248 1357764] Eval result: mIoU/mAcc/allAcc 0.6941/0.7702/0.9322.
+scribsamv2_4_exp/voc2012/pspnet101/model/train_epoch_72.pth
+[2024-12-15 12:12:32,007 INFO test.py line 248 1361119] Eval result: mIoU/mAcc/allAcc 0.6779/0.7500/0.9287.
+scribsamv2_8_exp/voc2012/pspnet101/model/train_epoch_34.pth
+[2024-12-15 13:59:48,738 INFO test.py line 248 1601572] Eval result: mIoU/mAcc/allAcc 0.6986/0.7835/0.9318.
+scribsamv2_8_exp/voc2012/pspnet101/model/train_epoch_46.pth
+[2024-12-15 14:03:08,367 INFO test.py line 248 1604927] Eval result: mIoU/mAcc/allAcc 0.7003/0.7839/0.9275.
+scribsamv2_8_exp/voc2012/pspnet101/model/train_epoch_52.pth
+[2024-12-15 14:06:31,600 INFO test.py line 248 1608282] Eval result: mIoU/mAcc/allAcc 0.7080/0.8040/0.9273.
+scribsamv2_9_exp/voc2012/pspnet101/model/train_epoch_36.pth
+[2024-12-16 03:39:39,962 INFO test.py line 248 2043443] Eval result: mIoU/mAcc/allAcc 0.7330/0.8048/0.9405.
+scribsamv2_9_exp/voc2012/pspnet101/model/train_epoch_37.pth
+[2024-12-16 03:43:02,519 INFO test.py line 248 2046798] Eval result: mIoU/mAcc/allAcc 0.7417/0.8131/0.9410.
+scribsamv2_9_exp/voc2012/pspnet101/model/train_epoch_47.pth
+[2024-12-16 03:46:19,432 INFO test.py line 248 2050153] Eval result: mIoU/mAcc/allAcc 0.7440/0.8070/0.9424.

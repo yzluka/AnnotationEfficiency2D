@@ -1,0 +1,30 @@
+sambox_1_exp/voc2012/pspnet101/model/train_epoch_52.pth
+[2023-04-25 22:18:04,751 INFO test.py line 248 1385772] Eval result: mIoU/mAcc/allAcc 0.4959/0.5636/0.8870.
+sambox_1_exp/voc2012/pspnet101/model/train_epoch_53.pth
+[2023-04-25 22:23:49,936 INFO test.py line 248 1393421] Eval result: mIoU/mAcc/allAcc 0.4959/0.5730/0.8862.
+sambox_1_exp/voc2012/pspnet101/model/train_epoch_78.pth
+[2023-04-25 22:29:34,206 INFO test.py line 248 1401070] Eval result: mIoU/mAcc/allAcc 0.4900/0.5558/0.8857.
+sambox_2_exp/voc2012/pspnet101/model/train_epoch_47.pth
+[2023-04-26 01:14:50,377 INFO test.py line 248 1812761] Eval result: mIoU/mAcc/allAcc 0.5710/0.6379/0.9020.
+sambox_2_exp/voc2012/pspnet101/model/train_epoch_54.pth
+[2023-04-26 01:20:36,661 INFO test.py line 248 1820410] Eval result: mIoU/mAcc/allAcc 0.5764/0.6422/0.9042.
+sambox_2_exp/voc2012/pspnet101/model/train_epoch_81.pth
+[2023-04-26 01:26:22,504 INFO test.py line 248 1828059] Eval result: mIoU/mAcc/allAcc 0.5660/0.6298/0.9038.
+sambox_4_exp/voc2012/pspnet101/model/train_epoch_40.pth
+[2023-04-26 04:49:25,982 INFO test.py line 248 2104214] Eval result: mIoU/mAcc/allAcc 0.6640/0.7233/0.9244.
+sambox_4_exp/voc2012/pspnet101/model/train_epoch_53.pth
+[2023-04-26 04:55:12,065 INFO test.py line 248 2111863] Eval result: mIoU/mAcc/allAcc 0.6517/0.7075/0.9207.
+sambox_4_exp/voc2012/pspnet101/model/train_epoch_85.pth
+[2023-04-26 05:01:01,922 INFO test.py line 248 2119512] Eval result: mIoU/mAcc/allAcc 0.6552/0.7061/0.9220.
+sambox_8_exp/voc2012/pspnet101/model/train_epoch_42.pth
+[2023-04-26 09:21:16,587 INFO test.py line 248 2307411] Eval result: mIoU/mAcc/allAcc 0.7192/0.7730/0.9339.
+sambox_8_exp/voc2012/pspnet101/model/train_epoch_43.pth
+[2023-04-26 09:27:02,285 INFO test.py line 248 2315060] Eval result: mIoU/mAcc/allAcc 0.7195/0.7749/0.9352.
+sambox_8_exp/voc2012/pspnet101/model/train_epoch_53.pth
+[2023-04-26 09:32:52,257 INFO test.py line 248 2322709] Eval result: mIoU/mAcc/allAcc 0.7262/0.7761/0.9352.
+sambox_10_exp/voc2012/pspnet101/model/train_epoch_31.pth
+[2023-04-26 14:14:54,006 INFO test.py line 248 2488544] Eval result: mIoU/mAcc/allAcc 0.7247/0.7953/0.9347.
+sambox_10_exp/voc2012/pspnet101/model/train_epoch_41.pth
+[2023-04-26 14:20:42,220 INFO test.py line 248 2496193] Eval result: mIoU/mAcc/allAcc 0.7506/0.8040/0.9400.
+sambox_10_exp/voc2012/pspnet101/model/train_epoch_44.pth
+[2023-04-26 14:26:28,298 INFO test.py line 248 2503842] Eval result: mIoU/mAcc/allAcc 0.7472/0.7972/0.9393.
